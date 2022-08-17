@@ -5,7 +5,7 @@ I'm a full-stack JavaScript developer with a passion for building stylish apps t
 ## Languages
 <p align="left">
 <!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="60" height="60" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="60" height="60" /></a>
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="60" height="60" /></a>
 <!-- HTML5 -->
